@@ -22,6 +22,3 @@
 
 Curso Ciência da Computação na UFSCAR e sou apaixonado por tecnologia
 
-### GitLab
-
-[![Blog](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)](https://gitlab.com/jakson.huang)
